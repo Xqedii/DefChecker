@@ -1,0 +1,129 @@
+h1 {
+     font-size: 3rem;
+}
+ @keyframes gradient {
+     0% {
+         background-position: 0% 50%;
+    }
+     50% {
+         background-position: 100% 50%;
+    }
+     100% {
+         background-position: 0% 50%;
+    }
+}
+ body {
+     font-family: sans-serif;
+     text-align: center;
+     color: white;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+     height: calc(100vh - 100px);
+     margin: 0;
+     background: linear-gradient(-45deg, #0c0c0e, #16171a, #0d0d0f);
+     background-size: 200% 200%;
+     animation: gradient 15s ease infinite;
+}
+ #output {
+     margin-top: 20px;
+     padding: 20px;
+     background: #1c1d22;
+     color: white;
+     min-height: 100px;
+     width: 60%;
+     border-radius: 20px;
+     font-size: 1.2em;
+     box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.2);
+     max-height: 300px;
+     overflow-y: auto;
+}
+ button {
+     color: white;
+     background: #1c1d22;
+     border-radius: 10px;
+     padding: 10px 20px;
+     font-size: 1.1em;
+     margin-bottom: 15px;
+     padding-left: 20px;
+     padding-right: 20px;
+     box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+     border: none;
+}
+ #status {
+     color: white;
+     font-style: italic;
+     margin-top: 10px;
+}
+ .info {
+     color: white;
+     background-color: #1c1d22;
+     margin-top: 15px;
+     padding: 10px;
+     border-radius: 10px;
+     box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+}
+ input {
+     color: white;
+     background: #1c1d22;
+     border-radius: 10px;
+     padding: 20px;
+     font-size: 1em;
+     margin-bottom: 15px;
+     border: none;
+     box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+     margin-top: 20px;
+     padding: 10px;
+     width: 300px;
+     display: none;
+}
+ .title {
+     position: relative;
+     display: inline-block;
+     font-weight: 700;
+     font-size: 3.5em;
+     margin-bottom: 10px;
+     color: #2a292d;
+     text-align: center;
+     background: linear-gradient(120deg, #ffffff 40%, #b0b0b0 50%, #ffffff 60%);
+     background-size: 200% auto;
+     background-clip: text;
+     -webkit-background-clip: text;
+     color: transparent;
+     -webkit-text-fill-color: transparent;
+     animation: shine 4.5s linear infinite;
+}
+ @keyframes shine {
+     0% {
+         background-position: 200% center;
+    }
+     100% {
+         background-position: -200% center;
+    }
+}
+ @media (max-width: 600px) {
+     h1 {
+         font-size: 2rem;
+    }
+     .title {
+         font-size: 2.2em;
+    }
+     #output {
+         width: 80%;
+         font-size: 1em;
+         padding: 15px;
+    }
+     input {
+         width: 80%;
+         font-size: 0.95em;
+    }
+     .info {
+         width: 80%;
+         font-size: 0.95em;
+    }
+     button {
+         font-size: 1em;
+         padding: 8px 16px;
+    }
+}
