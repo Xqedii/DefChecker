@@ -38,7 +38,6 @@ function processText(text) {
 
     const lowerText = text.toLowerCase();
 
-    // 🔍 Odwrotne wyszukiwanie, jeśli wypowiedź zawiera "znajdź"
     if (lowerText.includes('znajdź')) {
         const queryWords = text
             .toLowerCase()
@@ -83,7 +82,7 @@ function processText(text) {
     if (match) {
         const displayText = `<b>${match.original}:</b> ${match.definition}`;
         output.innerHTML = displayText;
-        speak(match.definition);
+        speak(`${match.original} = ${match.definition}`);
     } else {
         const termPattern = /co to (jest )?(za )?(.+?)(\?|$)/i;
         const altPattern = /(definicja|znaczenie|wyjaśnij|wytłumacz) (.+?)(\?|$)/i;
@@ -103,7 +102,7 @@ function processText(text) {
             if (secondMatch) {
                 const displayText = `${secondMatch.original}: ${secondMatch.definition}`;
                 output.textContent = displayText;
-                speak(secondMatch.definition);
+                speak(`${secondMatch.original} = ${secondMatch.definition}`);
                 return;
             }
         }
@@ -115,7 +114,7 @@ function processText(text) {
                 if (wordMatch) {
                     const displayText = `${wordMatch.original}: ${wordMatch.definition}`;
                     output.textContent = displayText;
-                    speak(wordMatch.definition);
+                    speak(`${wordMatch.original} = ${wordMatch.definition}`);
                     return;
                 }
             }
@@ -339,6 +338,15 @@ function startRecognition() {
         const formattedTranscript = transcript.trim();
         output.innerHTML = `Detected: <b>${formattedTranscript}</b>`;
 
+        if (formattedTranscript.toLowerCase().includes("stop")) {
+            if (isSpeaking) {
+                const synth = window.speechSynthesis;
+                synth.cancel();
+            }
+            statusEl.textContent = "Speaking stopped.";
+            return;
+        }
+
         if (event.results[event.resultIndex].isFinal) {
             if (formattedTranscript !== lastProcessedTranscript) {
                 lastProcessedTranscript = formattedTranscript;
@@ -346,6 +354,7 @@ function startRecognition() {
             }
         }
     };
+
 
     recognition.onend = () => {
         if (isListening) {
