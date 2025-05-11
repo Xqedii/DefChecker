@@ -1,0 +1,428 @@
+3D NOW - Rozszerzenie architektury x86 zwiększające wydajność obliczeń zmiennoprzecinkowych w grafice 3D i multimediach.
+3D VISION - Technologia NVIDIA umożliwiająca oglądanie obrazu 3D na monitorze.
+trzy Division - Technologia NVIDIA umożliwiająca oglądanie obrazu 3D na monitorze.
+ABIT - ABTI / USI Tajwański producent płyt głównych, znany z problemów z wadliwymi kondensatorami na początku lat 2000.
+abid - ABTI / USI Tajwański producent płyt głównych, znany z problemów z wadliwymi kondensatorami na początku lat 2000.
+USI - ABTI / USI Tajwański producent płyt głównych, znany z problemów z wadliwymi kondensatorami na początku lat 2000.
+ACPI - (Advanced Configuration and Power Interface) - Standard zarządzania konfiguracją i energią w komputerach.
+ADRES IP - Liczba identyfikująca interfejs sieciowy lub urządzenie w sieci komputerowej.
+AGP - AGP, AGP PRO (Accelerated Graphics Port) - Zmodyfikowana magistrala PCI Intela, przeznaczona dla kart graficznych.
+AHCI - (Advanced Host Controller Interface) - Interfejs Intela (2003) opisujący komunikację między pamięcią systemową a urządzeniami pamięci masowej.
+AKCELERATOR GRAFIKI 3D - Urządzenie wspomagające karty graficzne w renderowaniu obiektów 3D.
+ALGEBRA BOOLEA - Struktura algebraiczna (matematyka, informatyka) wykorzystująca operacje logiczne (koniunkcja, alternatywa, negacja) na wartościach 0 i 1.
+algebra Baleya - Struktura algebraiczna (matematyka, informatyka) wykorzystująca operacje logiczne (koniunkcja, alternatywa, negacja) na wartościach 0 i 1.
+ALGEBRA BOLLEA - Struktura algebraiczna (matematyka, informatyka) wykorzystująca operacje logiczne (koniunkcja, alternatywa, negacja) na wartościach 0 i 1.
+AMD K7 - Pierwsza wersja rdzenia procesora AMD Athlon (500-700 MHz), często montowana na kartach wpinanych do płyty głównej.
+AND - Bramka logiczna realizująca funkcję koniunkcji (I).
+AMD - Bramka logiczna realizująca funkcję koniunkcji (I).
+ANSI - (American National Standards Institute) - Amerykańska instytucja normalizacyjna; także 8-bitowa strona kodowa w Windows.
+AOPEN - Tajwański producent komputerów i podzespołów komputerowych, działający od 1996 r.
+APARAT CYFROWY - Urządzenie rejestrujące obraz w postaci cyfrowej na karcie pamięci, wykorzystujące przetwornik fotoelektryczny.
+API - (Application Programming Interface) - Zestaw reguł i specyfikacji opisujących komunikację między komponentami oprogramowania.
+ARCHIWIZACJA - Przeniesienie danych w inne miejsce w celu ich długotrwałego przechowania (różni się od kopii bezpieczeństwa).
+ASCII - (American Standard Code for Information Interchange) - 7-bitowy system kodowania znaków (litery łacińskie, cyfry, symbole).
+assi - (American Standard Code for Information Interchange) - 7-bitowy system kodowania znaków (litery łacińskie, cyfry, symbole).
+ASI - (American Standard Code for Information Interchange) - 7-bitowy system kodowania znaków (litery łacińskie, cyfry, symbole).
+ASROCK - Tajwański producent płyt głównych (od 2002 r.), filia ASUS, początkowo skupiony na tanich rozwiązaniach.
+ASUS - (ASUSTek Computer Inc.) - Tajwański producent m.in. płyt głównych, kart graficznych, laptopów i smartfonów (od 1989 r.).
+AT - Standard wielkości płyt głównych, obudów i zasilaczy (od 1984 r.), charakteryzujący się dużymi wymiarami płyty (ok. 305x350mm).
+ATA - 16-bitowy interfejs do podłączania starszych dysków twardych i napędów optycznych (od 1983 r.).
+ATAPI - (Advanced Technology Attachment Packet Interface) - Rozszerzenie interfejsu ATA usprawniające obsługę wymiennych mediów, np. napędów optycznych.
+ATHLON - Seria procesorów AMD (od 1999 r.), ewoluująca od 500 MHz do architektur 64-bitowych z dwoma rdzeniami; obecnie procesory biurowe.
+ATX - Standard płyt głównych, zasilaczy i obudów (od 1995 r.), popularny dzięki lepszemu układowi, zasilaniu i integracji portów.
+AUX IN - Złącze kuliste do podłączania zewnętrznych źródeł audio (np. telefonu do głośnika).
+BAJT - Jednostka informacji pamięci komputerowej, składająca się z 8 bitów.
+Bait - Jednostka informacji pamięci komputerowej, składająca się z 8 bitów.
+BIOS - (Basic Input/Output System) - Podstawowy system pośredniczący między systemem operacyjnym a sprzętem, odpowiedzialny za POST i konfigurację sprzętową.
+BIT - Najmniejsza jednostka informacji (logiczna), przyjmująca wartość 0 (fałsz, brak prądu) lub 1 (prawda, prąd płynie).
+BLUETOOTH - Standard bezprzewodowej komunikacji krótkiego zasięgu między urządzeniami (od 1994 r.).
+BLU-RAY - Format zapisu na dyskach optycznych, następca DVD, wykorzystujący niebieski laser do zapisu dużej ilości danych.
+BŁĘDY FIZYCZNE - Uszkodzenia elementów dysku twardego.
+BŁĘDY LOGICZNE - Zaburzenia logicznej struktury danych na dysku.
+BTX - Format płyt głównych, zasilaczy i obudów zaprojektowany przez Intela w 2004 roku.
+BUFOROWANIE ZAPISU - Technika przyspieszająca pracę dysku przez zapisywanie większych porcji danych lub użycie szybkiej pamięci podręcznej.
+CABLE SELECT - Ustawienie w urządzeniach ATA (PATA) określające hierarchię (MASTER/SLAVE) przy wyszukiwaniu systemu operacyjnego.
+kable Select - Ustawienie w urządzeniach ATA (PATA) określające hierarchię (MASTER/SLAVE) przy wyszukiwaniu systemu operacyjnego.
+CAŁKOWITA MOC WYJŚCIOWA - Maksymalna moc, jaką zasilacz komputerowy może dostarczyć podzespołom.
+CATV - Sieć odbioru i nadawania sygnałów radiowo-telewizyjnych w sąsiadujących budynkach; sieć kablowa.
+CD - (Compact Disc) - Format zapisu danych na nośniku optycznym (od 1966 r.), wykorzystujący żółty laser; pojemność do 1,4 GB.
+CD AUDIO - Standard zapisu cyfrowego audio na płytach CD (44,1 kHz, 16 bitów).
+CDA AUDIO - Standard zapisu cyfrowego audio na płytach CD (44,1 kHz, 16 bitów).
+CD DIGITAL AUDIO - To samo co CD AUDIO.
+CD-ROM - Odmiana płyty CD (Read Only Memory), przeznaczona tylko do odczytu, z danymi zapisanymi fabrycznie.
+CD Room - Odmiana płyty CD (Read Only Memory), przeznaczona tylko do odczytu, z danymi zapisanymi fabrycznie.
+CELERON - Rodzina niskobudżetowych procesorów Intela.
+CENTRONIX - (IEEE 1284, LPT) - Port równoległy do podłączania drukarek, skanerów, ploterów (od 1994 r.).
+centronics - (IEEE 1284, LPT) - Port równoległy do podłączania drukarek, skanerów, ploterów (od 1994 r.).
+Europejski znak zgodności CE - (Conformité Européenne) - Oznaczenie zgodności produktu z dyrektywami UE (od 1993 r.).
+Europejski znak zgodności - (Conformité Européenne) - Oznaczenie zgodności produktu z dyrektywami UE (od 1993 r.).
+CHIPSET - Grupa układów scalonych zarządzająca wymianą informacji między kluczowymi komponentami komputera (CPU, RAM, GPU, I/O). Często dzielony na mostek północny i południowy.
+CINCH - (Złącze RCA) - Złącze używane w sprzęcie audio/wideo, podobne do AUX, ale grubsze, z kolorami oznaczającymi różne sygnały/głośniki.
+cechy - (Złącze RCA) - Złącze używane w sprzęcie audio/wideo, podobne do AUX, ale grubsze, z kolorami oznaczającymi różne sygnały/głośniki.
+cejn Czechy - (Złącze RCA) - Złącze używane w sprzęcie audio/wideo, podobne do AUX, ale grubsze, z kolorami oznaczającymi różne sygnały/głośniki.
+COM - (RS-232) - 9-pinowy port szeregowy do komunikacji z urządzeniami DTE (np. komputer, router).
+COPYRIGHT - (©, Prawa autorskie) - Zespół norm prawnych opisujących prawa własności autora do jego dzieła.
+CORE 2 DUO - Ósma generacja 64-bitowych mikroprocesorów Intela, oparta na mikroarchitekturze Intel Core.
+CORE i3 - Seria procesorów Intela zastępująca Pentium M, z różnymi modelami oznaczonymi jako i3/5/7/9.
+CORE i5 - Seria procesorów Intela zastępująca Pentium M, z różnymi modelami oznaczonymi jako i3/5/7/9.
+CORE i7 - Seria procesorów Intela zastępująca Pentium M, z różnymi modelami oznaczonymi jako i3/5/7/9.
+CORE i9 - Seria procesorów Intela zastępująca Pentium M, z różnymi modelami oznaczonymi jako i3/5/7/9.
+CPU - (Central Processing Unit) - Procesor; sekwencyjne urządzenie cyfrowe interpretujące i wykonujące rozkazy z pamięci RAM.
+CROSSFIRE - Technologia ATI/AMD pozwalająca na łączenie pracy kilku kart graficznych w celu zwiększenia wydajności.
+CRT - (Kineskop) - Typ monitora wykorzystujący działo elektronowe do wyświetlania obrazu na ekranie pokrytym luminoforem.
+CUDA - Architektura Nvidii umożliwiająca wykorzystanie mocy obliczeniowej GPU do ogólnych problemów numerycznych (oparta na C++).
+CYFRA DECYMALNA - Cyfra systemu dziesiętnego (0-9).
+CYFRA DWÓJKOWA - Cyfra systemu binarnego (0 lub 1), używana w elektronice.
+CYFRA ÓSEMKOWA - Cyfra systemu ósemkowego (oktalnego, 0-7), używana w informatyce.
+CYFRA RZYMSKA - Cyfra systemu rzymskiego (I, V, X, L, C, D, M).
+CYFRA SZESNASTKOWA - Cyfra systemu heksadecymalnego (0-9, A-F), używana w informatyce (np. adresy IPv6).
+CYFROWE WYJŚCIE OPTYCZNE - (S/PDIF) - Złącze do przesyłania cyfrowych sygnałów dźwiękowych bez konwersji na analogowe.
+CZUJNIK CCD - Układ elementów światłoczułych rejestrujący światło i przetwarzający je na sygnał elektryczny.
+CZYTNIK PODPISU ELEKTRONICZNEGO - Urządzenie do weryfikacji autentyczności dokumentów i wiadomości elektronicznych za pomocą podpisu cyfrowego.
+DAC - (Digital to Analog Converter) - Przetwornik cyfrowo-analogowy, zamieniający sygnał cyfrowy na analogowy (np. w kartach dźwiękowych).
+DDR SDRAM - Typ pamięci RAM (1999), napięcie 2,5V, 184 piny. Efektywne taktowanie 200-433 MHz.
+DDR2 SDRAM - Typ pamięci RAM (2003), napięcie 1,8V, 240 pinów. Efektywne taktowanie 400-1066 MHz.
+DDR3 SDRAM - Typ pamięci RAM (2007), napięcie 1.5V/1.35V (LE), 240 styków. Efektywne taktowanie 800-2400 MHz.
+DDR4 SDRAM - Typ pamięci RAM (2014), napięcie 1.2V (standard), 288 styków. Efektywne taktowanie od 1600 MHz.
+DDR - Typ pamięci RAM (1999), napięcie 2,5V, 184 piny. Efektywne taktowanie 200-433 MHz.
+DDR2 - Typ pamięci RAM (2003), napięcie 1,8V, 240 pinów. Efektywne taktowanie 400-1066 MHz.
+DDR3 - Typ pamięci RAM (2007), napięcie 1.5V/1.35V (LE), 240 styków. Efektywne taktowanie 800-2400 MHz.
+DDR4 - Typ pamięci RAM (2014), napięcie 1.2V (standard), 288 styków. Efektywne taktowanie od 1600 MHz.
+DEFRAGMENTACJA - Proces konsolidacji pofragmentowanych danych na dysku twardym (HDD) w celu zwiększenia wydajności.
+DEKODER - Układ kombinacyjny zamieniający kod binarny (lub inny) na kod "1 z k".
+DELL - Amerykańska korporacja produkująca i sprzedająca komputery oraz powiązane produkty i usługi.
+DIM - (Dual In-Line Memory Module) - Standard modułów RAM ze stykami po obu stronach płytki (np. 168-pin SDR, 184-pin DDR, 240-pin DDR2/3, 288-pin DDR4).
+DIMM - (Dual In-Line Memory Module) - Standard modułów RAM ze stykami po obu stronach płytki (np. 168-pin SDR, 184-pin DDR, 240-pin DDR2/3, 288-pin DDR4).
+DIRECTX - Zestaw API Microsoftu wspomagający generowanie grafiki i dźwięku, głównie w grach (Windows, Xbox).
+DISPLAY PORT - Cyfrowy interfejs VESA (od 2006) do połączeń komputer-monitor/kino domowe, 20 pinów, obsługa do 8K@60Hz (DP 2.0).
+DMA - (Direct Memory Access) - Technika pozwalająca urządzeniom (np. GPU, HDD) na bezpośredni dostęp do RAM, omijając CPU.
+DODAWANIE LICZB BINARNYCH - Operacja arytmetyczna w systemie dwójkowym (np. 1+1=10).
+Dream - (Dynamic Random-Access Memory) - Ulotna pamięć RAM przechowująca bity w kondensatorach, wymagająca odświeżania.
+DRAM - (Dynamic Random-Access Memory) - Ulotna pamięć RAM przechowująca bity w kondensatorach, wymagająca odświeżania.
+DRUKARKA 3D - Urządzenie wytwarzające trójwymiarowe obiekty fizyczne na podstawie modelu komputerowego.
+DRUKARKA ATRAMENTOWA - Drukarka wykorzystująca tusz (rozpuszczalnikowy lub pigmentowy) do nanoszenia obrazu.
+DRUKARKA IGŁOWA - Drukarka mozaikowa używająca głowicy z igłami uderzającymi w taśmę barwiącą.
+DRUKARKA LASEROWA - Drukarka wykorzystująca laser/diody LED do naelektryzowania bębna, który nanosi toner na papier.
+DRUKARKA TERMOSUBLIMACYJNA - Drukarka wykorzystująca ciepło do przenoszenia barwnika na nośnik, dając fotograficzną jakość.
+D-SUB - Rodzina złączy (9, 15, 25, 37, 50, 60 pinów) do transmisji sygnałów między urządzeniami elektronicznymi.
+DTX - Format płyty głównej, mniejszy niż ATX, przeznaczony do małych obudów.
+DURON - Niskobudżetowy mikroprocesor AMD (od 2000 r.), wersja Athlona.
+DVB-S - (Digital Video Broadcasting – Satellite) - Standard cyfrowej telewizji satelitarnej.
+DVB-T - (Digital Video Broadcasting – Terrestrial) - Standard cyfrowej telewizji naziemnej (od 1997 r.).
+DVD - (Digital Video Disc) - Format zapisu danych na nośniku optycznym, następca CD (od 1995 r.), pojemność do 17 GB.
+DVI - (Digital Visual Interface) - Standard złącza (od 1999 r.) między kartą graficzną a monitorem.
+DVI-A - Odmiana DVI przesyłająca tylko sygnał analogowy.
+DVI-D - Odmiana DVI przesyłająca tylko sygnał cyfrowy (umożliwia przejściówkę na HDMI).
+DVI-I - Odmiana DVI przesyłająca sygnał cyfrowy i analogowy (umożliwia przejściówki na HDMI i VGA).
+DYSK HYBRYDOWY - Dysk twardy (HDD) zintegrowany z modułem pamięci Flash (SSD), łączący ich zalety.
+SSHD - Dysk twardy (HDD) zintegrowany z modułem pamięci Flash (SSD), łączący ich zalety.
+SSHD/HDD - Dysk twardy (HDD) zintegrowany z modułem pamięci Flash (SSD), łączący ich zalety.
+HHD - Dysk twardy (HDD) zintegrowany z modułem pamięci Flash (SSD), łączący ich zalety.
+DYSK PÓŁPRZEWODNIKOWY (SSD) - (Solid State Drive) - Urządzenie pamięci masowej oparte na pamięci Flash, bez ruchomych części, szybkie i ciche.
+DYSK PÓŁPRZEWODNIKOWY - (Solid State Drive) - Urządzenie pamięci masowej oparte na pamięci Flash, bez ruchomych części, szybkie i ciche.
+DYSK TWARDY (HDD) - (Hard Disk Drive) - Pamięć masowa wykorzystująca wirujące talerze magnetyczne i głowice do zapisu/odczytu danych.
+DYSK TWARDY - (Hard Disk Drive) - Pamięć masowa wykorzystująca wirujące talerze magnetyczne i głowice do zapisu/odczytu danych.
+DYSKIETKA - (Floppy disk) - Przenośny nośnik magnetyczny o małej pojemności (od 1971 r.), np. 3,5 cala do 200 MB.
+EDO/BEDO DRAM - EDO RAM (Extended Data Out) - ulepszona FPM DRAM; BEDO RAM (Burst EDO) - połączenie EDO z techniką burst.
+EDO DRAM - EDO RAM (Extended Data Out) - ulepszona FPM DRAM; BEDO RAM (Burst EDO) - połączenie EDO z techniką burst.
+BEDO DRAM - EDO RAM (Extended Data Out) - ulepszona FPM DRAM; BEDO RAM (Burst EDO) - połączenie EDO z techniką burst.
+bedoes - EDO RAM (Extended Data Out) - ulepszona FPM DRAM; BEDO RAM (Burst EDO) - połączenie EDO z techniką burst.
+EEPROM - (Electrically Erasable Programmable Read-Only Memory) - Nieulotna pamięć kasowalna elektrycznie.
+ENHANCED 3DNOW! - Rozszerzenie technologii 3DNow! wprowadzające nowe instrukcje, w tym część z SSE.
+ENHANCED 3DNOW - Rozszerzenie technologii 3DNow! wprowadzające nowe instrukcje, w tym część z SSE.
+Enchanted 3DNOW - Rozszerzenie technologii 3DNow! wprowadzające nowe instrukcje, w tym część z SSE.
+EPROM - (Erasable PROM) - Nieulotna pamięć kasowalna światłem ultrafioletowym.
+ESATA - (External SATA) - Zewnętrzny port SATA do podłączania dysków zewnętrznych z przepustowością SATA2 (3 Gb/s).
+ETHERNETOWE KARTY SIECIOWE - Karta rozszerzeń (lub zintegrowana) umożliwiająca połączenie komputera z siecią przewodową (port RJ45).
+FILAMENT - Tworzywo (w formie szpuli "kabla") używane w druku 3D metodą osadzania topionego materiału.
+FIREWIRE - (IEEE-1394, iLink) - Szeregowy interfejs komunikacyjny (od 1995 r.) do urządzeń cyfrowych, obsługujący Hot Swap.
+FLASH ROM - Reprogramowalna pamięć stała do przechowywania firmware/BIOSu.
+FLEXATX - Zmniejszona wersja formatu ATX (Intel, 1999), maks. 229x191 mm, do 2 gniazd rozszerzeń.
+FORMAT PŁYTY GŁÓWNEJ - Specyfikacja wymiarów płyty, rozmieszczenia komponentów i złączy. Popularne: ATX, microATX, mini-ITX.
+FOTODETEKTOR - Urządzenie reagujące na światło i przetwarzające je na inne sygnały (np. elektryczne).
+FUJITSU - Japońskie przedsiębiorstwo (od 1935 r.) specjalizujące się m.in. w IT, produkcji półprzewodników i komputerów.
+FUNKTORY LOGICZNE - Oznaczenia na schematach elektrycznych dla operacji logicznych (np. NOT, OR).
+GAMEPORT - Port (DA-15) do podłączania joysticków/gamepadów, popularny w latach 90., wyparty przez USB.
+GIBI (Gi) - Jednostka miary (potęga 2): 1 Gi = 2^30 bajtów = 1024 MiB.
+GIBI - Jednostka miary (potęga 2): 1 Gi = 2^30 bajtów = 1024 MiB.
+GIGA (G) - Jednostka miary (potęga 10): 1 G = 10^9.
+GIGA - Jednostka miary (potęga 10): 1 G = 10^9.
+GIGABYTE - (Gigabyte Technology Co. Ltd.) - Tajwański producent sprzętu komputerowego.
+GŁOŚNIK - Przetwornik elektroakustyczny przekształcający prąd elektryczny na falę akustyczną.
+HDDSCAN - Darmowa aplikacja do diagnostyki dysków twardych i innych nośników, sprawdzająca błędy i parametry S.M.A.R.T.
+HDMI - (High Definition Multimedia Interface) - Cyfrowy interfejs do przesyłania nieskompresowanego sygnału audio-wideo. Popularne typy: A (standard), C (mini), D (micro). Obsługuje rozdzielczości do 8K.
+HDTV - (High Definition Television) - Telewizja wysokiej rozdzielczości (minimum 1280x720p), obejmuje 720p i 1080p/i.
+HEAT PIPE - Rurka cieplna (najczęściej miedziana) używana do odprowadzania ciepła w laptopach i chłodzeniach CPU.
+HERC (Hz) - Jednostka częstotliwości (operacji na sekundę), używana np. do taktowania procesorów (MHz, GHz).
+HERC - Jednostka częstotliwości (operacji na sekundę), używana np. do taktowania procesorów (MHz, GHz).
+Hertz - Jednostka częstotliwości (operacji na sekundę), używana np. do taktowania procesorów (MHz, GHz).
+HITACHI - Japoński koncern technologiczny (od 1910 r.) produkujący m.in. dyski twarde, serwery.
+HOT PLUGGING (HOT SWAP) - Technologia umożliwiająca podłączanie/odłączanie urządzeń peryferyjnych przy włączonym zasilaniu.
+HOT PLUGGING - Technologia umożliwiająca podłączanie/odłączanie urządzeń peryferyjnych przy włączonym zasilaniu.
+HP - (Hewlett-Packard Company) - Amerykańskie przedsiębiorstwo informatyczne (od 1939 r.) produkujące m.in. serwery, laptopy.
+HYPER-THREADING - Technologia Intela dzieląca rdzeń procesora na wątki (wirtualne procesory) w celu zwiększenia wydajności wielozadaniowej.
+HYPER Trading - Technologia Intela dzieląca rdzeń procesora na wątki (wirtualne procesory) w celu zwiększenia wydajności wielozadaniowej.
+HYPER flaming - Technologia Intela dzieląca rdzeń procesora na wątki (wirtualne procesory) w celu zwiększenia wydajności wielozadaniowej.
+IBM - (International Business Machines Corporation) - Amerykańskie przedsiębiorstwo informatyczne (od 1911 r.), jedno z najstarszych na świecie.
+INTEL - Amerykański producent układów scalonych (od 1968 r.), twórca mikroprocesorów x86, główny konkurent AMD.
+IrDA - (Infrared Data Association) - Standard bezprzewodowej transmisji danych w podczerwieni (od 1993 r.).
+ITANIUM - Procesor architektury IA-64 (HP i Intel, od 2001 r.).
+ITX (Mini-ITX) - Format płyty głównej (największy w rodzinie ITX to Mini-ITX: 170x170 mm, od 2001 r.), z jednym gniazdem PCIe x16.
+IZOPROPANOL - Alkohol używany w elektronice do czyszczenia i odtłuszczania komponentów.
+JEDNOSTKA CENTRALNA - (Komputer, jednostka systemowa) - Zestaw kluczowych części komputera (CPU, dysk, płyta główna, RAM, GPU, zasilacz, porty).
+JEDNOSTKA ZMIENNOPRZECINKOWA (FPU) - (Koprocesor) - Układ wspomagający CPU w obliczeniach zmiennoprzecinkowych, obecnie zintegrowany w CPU.
+JEDNOSTKA ZMIENNOPRZECINKOWA - (Koprocesor) - Układ wspomagający CPU w obliczeniach zmiennoprzecinkowych, obecnie zintegrowany w CPU.
+JEDNOSTKA-ARTYMETYCZNO-LOGICZNA (ALU) - Układ cyfrowy w CPU wykonujący operacje arytmetyczne i logiczne.
+JEDNOSTKA-ARTYMETYCZNO-LOGICZNA - Układ cyfrowy w CPU wykonujący operacje arytmetyczne i logiczne.
+KABEL KONCENTRYCZNY - Kabel do połączenia anteny z odbiornikiem TV, składający się z przewodu, izolacji, ekranu i osłony zewnętrznej.
+KANAŁ IRQ - (Żądanie przerwania) - Sygnał powodujący przerwanie bieżącego procesu w CPU w celu wykonania innego zadania.
+IRQ - (Żądanie przerwania) - Sygnał powodujący przerwanie bieżącego procesu w CPU w celu wykonania innego zadania.
+KARTA DŹWIĘKOWA - Karta rozszerzeń (lub zintegrowana) przetwarzająca sygnały audio, wyposażona w generatory, przetworniki A/D i D/A, bufor, mikser, wzmacniacz.
+KARTA GRAFICZNA - Karta rozszerzeń (lub zintegrowana) odpowiedzialna za generowanie i wyświetlanie obrazu na monitorze.
+KARTA PAMIĘCI - Półprzewodnikowy nośnik danych (np. SD, microSD, CompactFlash) używany w aparatach, telefonach, kamerach.
+KARTA SIECIOWA - Karta rozszerzeń (lub zintegrowana) umożliwiająca podłączenie komputera do sieci.
+KARTA WIFI - Karta rozszerzeń z antenami umożliwiająca bezprzewodową komunikację komputera z siecią (2,4 GHz lub 5 GHz).
+KIBI (Ki) - Jednostka miary (potęga 2): 1 Ki = 2^10 bajtów = 1024 bajty.
+KIBI - Jednostka miary (potęga 2): 1 Ki = 2^10 bajtów = 1024 bajty.
+KILO (k) - Jednostka miary (potęga 10): 1 k = 10^3.
+KILO - Jednostka miary (potęga 10): 1 k = 10^3.
+KLAWIATURA - Urządzenie peryferyjne do wprowadzania tekstu i poleceń. Typy: mechaniczna, membranowa, ekranowa. Układy: QWERTY, AZERTY, Dvoraka.
+KONTROLER PRZERWAŃ - Urządzenie pośredniczące między CPU a urządzeniami żądającymi przerwania (IRQ).
+KONWERTER ANALOGOWO-CYFROWY (A/D) - Urządzenie zamieniające sygnał analogowy na cyfrowy (próbkowanie, kwantyzacja, kodowanie).
+konwerter analogowo-cyfrowy - Urządzenie zamieniające sygnał analogowy na cyfrowy (próbkowanie, kwantyzacja, kodowanie).
+KONWERTER CYFROWO-ANALOGOWY (D/A) - Urządzenie zamieniające sygnał cyfrowy na analogowy (prąd lub napięcie).
+KONWERTER CYFROWO-ANALOGOWY - Urządzenie zamieniające sygnał cyfrowy na analogowy (prąd lub napięcie).
+LCD - (Liquid-Crystal Display) - Wyświetlacz ciekłokrystaliczny, działający na zasadzie zmiany polaryzacji światła przez ciekłe kryształy.
+LGA - Typ podstawki procesora, gdzie piny znajdują się w gnieździe (socket), a procesor ma pola stykowe (głównie Intel, AMD Threadripper).
+LPT - (IEEE 1284) - Port równoległy do podłączania drukarek, skanerów (od 1994 r.).
+MACIERZ - Urządzenie zawierające co najmniej dwa dyski fizyczne pogrupowane w system RAID.
+MAGISTRALA - Zespół linii przesyłających sygnały między komponentami. Rodzaje: sterująca, adresowa, danych; równoległe (AGP, PCI), szeregowe (USB, PCIe).
+MANTYSA - Część liczby zmiennoprzecinkowej reprezentująca cyfry znaczące.
+MARŻA - Różnica między ceną sprzedaży a kosztem zakupu/produkcji, określająca zysk.
+MASKA PERFOROWANA - Metalowa przesłona w kineskopie kierująca wiązki elektronów na luminofor. Rodzaje: Delta.
+MASTER - W komunikacji asymetrycznej, urządzenie nadrzędne zarządzające innymi (np. w ATA).
+MATERIAŁ EKSPLOATACYJNY - Materiał wymieniany okresowo w urządzeniu (np. toner, tusz, barwnik).
+MATRYCA - W informatyce: obszar złożony z pikseli w monitorach/wyświetlaczach; ogólnie: forma do wykonywania kopii.
+MEGA (M) - Jednostka miary (potęga 10): 1 M = 10^6.
+MEGA - Jednostka miary (potęga 10): 1 M = 10^6.
+MEMORY CARD - Angielska nazwa karty pamięci.
+MEMORY STICK (MS) - Standard kart pamięci Flash EEPROM opracowany przez Sony.
+MEMORY STICK - Standard kart pamięci Flash EEPROM opracowany przez Sony.
+MEMTEST86+ - Program do testowania pamięci RAM, działający niezależnie od systemu operacyjnego.
+MEMTEST86 - Program do testowania pamięci RAM, działający niezależnie od systemu operacyjnego.
+memtest 86 + - Program do testowania pamięci RAM, działający niezależnie od systemu operacyjnego.
+mantes 86 Plus - Program do testowania pamięci RAM, działający niezależnie od systemu operacyjnego.
+MHDD - Narzędzie do diagnostyki i naprawy dysków, działające bezpośrednio przez kontroler, niezależnie od systemu.
+MIBI (Mi) - Jednostka miary (potęga 2): 1 Mi = 2^20 bajtów = 1024 KiB.
+MIBI - Jednostka miary (potęga 2): 1 Mi = 2^20 bajtów = 1024 KiB.
+MICROATX - Format płyty głównej (Intel, 1997), zmniejszona wersja ATX (maks. 244x244 mm).
+MIKROATX - Format płyty głównej (Intel, 1997), zmniejszona wersja ATX (maks. 244x244 mm).
+MICROSOFT - Amerykańska firma, producent systemów Windows, pakietu Office, konsoli Xbox, chmury Azure.
+MIDI - Rodzaj obudowy komputerowej typu Tower, średnich rozmiarów, najczęściej stosowana.
+MIKROFON - Przetwornik elektroakustyczny zamieniający fale dźwiękowe na sygnał elektryczny.
+MOSTEK POŁUDNIOWY (Southbridge) - Element chipsetu łączący CPU (pośrednio) z wolniejszymi komponentami (dyski, PCI, USB, BIOS).
+MOSTEK POŁUDNIOWY - Element chipsetu łączący CPU (pośrednio) z wolniejszymi komponentami (dyski, PCI, USB, BIOS).
+MOSTEK PÓŁNOCNY (Northbridge) - Element chipsetu łączący CPU z szybkimi komponentami (RAM, AGP/PCIe, mostek południowy).
+MOSTEK PÓŁNOCNY - Element chipsetu łączący CPU z szybkimi komponentami (RAM, AGP/PCIe, mostek południowy).
+MROM - (Mask-programmable ROM) - Pamięć tylko do odczytu, programowana fabrycznie.
+MSATA - (Mini-SATA) - Złącze SATA (od 2009 r.) dla miniaturowych pamięci masowych (np. dyski 1.8"), przepustowość do 6 Gb/s (SATA3).
+MSI - (Micro-Star International) - Tajwański producent sprzętu komputerowego, skupiony na gamingu.
+MTBF - (Mean Time Between Failures) - Średni czas bezawaryjnej pracy urządzenia lub usługi.
+MULTIMEDIA CARD (MMC) - Rodzaj karty pamięci (24x32x1,4 mm), wytrzymała, bez przełącznika ochrony zapisu.
+MULTIMEDIA CARD - Rodzaj karty pamięci (24x32x1,4 mm), wytrzymała, bez przełącznika ochrony zapisu.
+MULTIMETR - Miernik uniwersalny do pomiaru różnych wielkości elektrycznych (napięcie, prąd, opór).
+MYSZ KOMPUTEROWA - Urządzenie wskazujące do interakcji z graficznym interfejsem systemu, poruszające kursorem.
+MYSZKA KOMPUTEROWA - Urządzenie wskazujące do interakcji z graficznym interfejsem systemu, poruszające kursorem.
+NAND - Bramka logiczna realizująca funkcję negacji koniunkcji (NIE I).
+NAPĘD OPTYCZNY (ODD) - Urządzenie odczytujące/zapisujące dane na nośnikach optycznych (CD, DVD, Blu-ray) za pomocą lasera.
+NAPĘD OPTYCZNY - Urządzenie odczytujące/zapisujące dane na nośnikach optycznych (CD, DVD, Blu-ray) za pomocą lasera.
+NATĘŻENIE DŹWIĘKU - (Poziom głośności/hałasu) - Miara energii fali akustycznej, wyrażana w decybelach (dB).
+NICAM - System cyfrowego dźwięku w telewizji analogicznej, umożliwiający transmisję dwóch kanałów (stereo lub oddzielne).
+NIKAM - System cyfrowego dźwięku w telewizji analogicznej, umożliwiający transmisję dwóch kanałów (stereo lub oddzielne).
+Nika - System cyfrowego dźwięku w telewizji analogicznej, umożliwiający transmisję dwóch kanałów (stereo lub oddzielne).
+NOR - Bramka logiczna realizująca funkcję negacji alternatywy (NIE LUB).
+NVIDIA - Amerykański producent procesorów graficznych (GPU) i układów scalonych (serie GeForce, Quadro, Tesla).
+NVLink - Technologia NVIDII do bezpośredniego łączenia kart graficznych, omijająca ograniczenia PCIe.
+NXOR - Bramka logiczna realizująca funkcję negacji alternatywy wykluczającej (NIE XOR).
+OBUDOWA KOMPUTEROWA - Metalowa lub plastikowa skrzynka do montażu komponentów komputera.
+ODEJMOWANIE LICZB BINARNYCH - Operacja arytmetyczna w systemie dwójkowym (np. 1-1=0, 0-1=0 i 1 pożyczka).
+OGNIWO PELTIERA - Półprzewodnikowe urządzenie elektryczne wykorzystujące efekt Peltiera do chłodzenia lub grzania.
+OPASKA ANTYSTATYCZNA - Opaska na rękę neutralizująca ładunki elektrostatyczne, chroniąca elektronikę.
+OPENGL - (Open Graphics Library) - Otwarty, uniwersalny API do tworzenia grafiki 2D i 3D.
+OR - Bramka logiczna realizująca funkcję alternatywy (LUB).
+OSCYLOSKOP CYFROWY - Przyrząd do obserwacji i badania przebiegów elektrycznych w funkcji czasu.
+PAL - (Phase Alternating Line) - Standard nadawania koloru w telewizji analogowej (od 1967 r.), z odwracaniem fazy co drugą linię.
+Pamięci komputerowe CACHE - (Pamięć podręczna) - Szybka pamięć przechowująca często używane dane dla szybszego dostępu.
+CACHE - (Pamięć podręczna) - Szybka pamięć przechowująca często używane dane dla szybszego dostępu.
+Cash - (Pamięć podręczna) - Szybka pamięć przechowująca często używane dane dla szybszego dostępu.
+Pamięci komputerowe FLASH - Nieulotna pamięć komputerowa (rozwinięcie EEPROM), używana np. w SSD, pendrive'ach.
+FLASH - Nieulotna pamięć komputerowa (rozwinięcie EEPROM), używana np. w SSD, pendrive'ach.
+Pamięci komputerowe MASOWA - Trwała pamięć do przechowywania dużych ilości danych (HDD, SSD, płyty optyczne, karty pamięci).
+MASOWA - Trwała pamięć do przechowywania dużych ilości danych (HDD, SSD, płyty optyczne, karty pamięci).
+Pamięci komputerowe OPERACYJNA (RAM) - (Random-Access Memory) - Podstawowa, ulotna pamięć komputera do przechowywania danych i programów w trakcie pracy.
+Pamięci komputerowe OPERACYJNA - (Random-Access Memory) - Podstawowa, ulotna pamięć komputera do przechowywania danych i programów w trakcie pracy.
+OPERACYJNA - (Random-Access Memory) - Podstawowa, ulotna pamięć komputera do przechowywania danych i programów w trakcie pracy.
+Pamięci komputerowe OPTYCZNA - (Płyty CD, DVD, Blu-ray) - Nośniki danych odczytywane laserem. Oznaczenia: SL/DL (warstwy), -R/+R (typ zapisu), W (wielokrotny zapis).
+OPTYCZNA - (Płyty CD, DVD, Blu-ray) - Nośniki danych odczytywane laserem. Oznaczenia: SL/DL (warstwy), -R/+R (typ zapisu), W (wielokrotny zapis).
+Pamięci komputerowe ROM - (Read Only Memory) - Pamięć tylko do odczytu, dane zapisane fabrycznie lub specjalnymi metodami.
+ROM - (Read Only Memory) - Pamięć tylko do odczytu, dane zapisane fabrycznie lub specjalnymi metodami.
+PARTYCJA - Wydzielony logiczny obszar dysku twardego, formatowany w określonym systemie plików.
+PASTA TERMOPRZEWODZĄCA - Masa o dobrym przewodnictwie cieplnym, stosowana między elementem grzejącym (np. CPU) a radiatorem.
+PCI - (Peripheral Component Interconnect) - Magistrala komunikacyjna (od 1992 r.) do podłączania kart rozszerzeń (32/64-bit).
+PCIe - (Peripheral Component Interconnect Express) - Ulepszona magistrala PCI, zastępująca PCI i AGP, do instalacji kart rozszerzeń.
+PCIe 1.0 x1 / x2 / x4 / x8 / x16 - Pierwsza wersja PCIe z przepustowością: x1=250MB/s, x2=500MB/s, x4=1GB/s, x8=2GB/s, x16=4GB/s.
+PCIe - Pierwsza wersja PCIe z przepustowością: x1=250MB/s, x2=500MB/s, x4=1GB/s, x8=2GB/s, x16=4GB/s.
+PCIa - Pierwsza wersja PCIe z przepustowością: x1=250MB/s, x2=500MB/s, x4=1GB/s, x8=2GB/s, x16=4GB/s.
+psi - Pierwsza wersja PCIe z przepustowością: x1=250MB/s, x2=500MB/s, x4=1GB/s, x8=2GB/s, x16=4GB/s.
+PENDRIVE - (Pamięć USB) - Przenośne urządzenie z pamięcią flash, podłączane przez port USB.
+PENTIUM - Seria mikroprocesorów Intela (od 1993 r.), obecnie dla komputerów budżetowych/biurowych.
+PGA - (Pin Grid Array) - Typ gniazda procesora, gdzie piny są na procesorze (głównie AMD).
+PHENOM - Linia wielordzeniowych procesorów AMD (K10, od 2007 r.), konkurencja dla Intel Core 2.
+PIKSEL - Najmniejszy, jednolity element obrazu cyfrowego o stałej barwie.
+PLUG & PLAY - Zdolność komputera do automatycznego rozpoznawania i konfigurowania podłączonych urządzeń peryferyjnych.
+PLUG i PLAY - Zdolność komputera do automatycznego rozpoznawania i konfigurowania podłączonych urządzeń peryferyjnych.
+Flagi PLAY - Zdolność komputera do automatycznego rozpoznawania i konfigurowania podłączonych urządzeń peryferyjnych.
+PŁYTA GŁÓWNA (Motherboard, MB) - Podstawa komputera, płytka drukowana łącząca kluczowe podzespoły (CPU, RAM, BIOS).
+PŁYTA GŁÓWNA - Podstawa komputera, płytka drukowana łącząca kluczowe podzespoły (CPU, RAM, BIOS).
+Motherboard - Podstawa komputera, płytka drukowana łącząca kluczowe podzespoły (CPU, RAM, BIOS).
+PORT - Element złącza elektronicznego (np. USB, LPT) do podłączania urządzeń peryferyjnych.
+POST - (Power-On-Self-Test) - Test poprawności działania podstawowych podzespołów komputera przy uruchamianiu, inicjowany przez BIOS.
+POZYCJONER GŁOWICY - Element dysku twardego (HDD) sterujący ruchem głowic nad talerzami.
+PÓŁSUMATOR - Układ logiczny dodający dwie liczby jednobitowe, z wyjściami sumy (S) i przeniesienia (C).
+PPGA - (Plastic Pin Grid Array) - Wersja obudowy PGA dla procesorów Celeron (Socket 370).
+PRĘDKOŚĆ OBROTOWA (RPM) - Obroty na minutę, parametr dysków twardych (HDD) i napędów optycznych (np. 5400, 7200 RPM).
+PRĘDKOŚĆ OBROTOWA - Obroty na minutę, parametr dysków twardych (HDD) i napędów optycznych (np. 5400, 7200 RPM).
+PRĘDKOŚĆ POBIERANIA (Download) - Szybkość kopiowania danych z sieci/innych urządzeń na komputer.
+PRĘDKOŚĆ POBIERANIA - Szybkość kopiowania danych z sieci/innych urządzeń na komputer.
+PRĘDKOŚĆ WYSYŁANIA (Upload) - Szybkość wysyłania danych z komputera na inne urządzenie/do sieci.
+PRĘDKOŚĆ WYSYŁANIA - Szybkość wysyłania danych z komputera na inne urządzenie/do sieci.
+PROCES TECHNOLOGICZNY - W produkcji mikroprocesorów, odnosi się do minimalnego rozmiaru elementów (np. tranzystorów) na układzie scalonym, wyrażany w nanometrach (nm). Mniejsza wartość oznacza zwykle większą gęstość, niższe zużycie energii i potencjalnie wyższą wydajność.
+PROCESOR (CPU, Mikroprocesor) - Centralna jednostka obliczeniowa komputera, wykonująca instrukcje programów.
+PROCESOR - Centralna jednostka obliczeniowa komputera, wykonująca instrukcje programów.
+CPU - Centralna jednostka obliczeniowa komputera, wykonująca instrukcje programów.
+PROM - (Programmable ROM) - Pamięć programowalna jednokrotnie (np. przez przepalanie połączeń).
+PS/2 - Port komunikacyjny (IBM) do podłączania klawiatury i myszy.
+PS2 - Port komunikacyjny (IBM) do podłączania klawiatury i myszy.
+QWERTY - Najpopularniejszy układ klawiatury.
+Oferty - Najpopularniejszy układ klawiatury.
+RADIATOR - Element (zwykle metalowy, ożebrowany) odprowadzający ciepło z nagrzewających się komponentów (CPU, GPU).
+RAID - (Redundant Array of Independent Disks) - Technologia łączenia kilku dysków twardych w celu zwiększenia wydajności, niezawodności lub pojemności.
+RIDE - (Redundant Array of Independent Disks) - Technologia łączenia kilku dysków twardych w celu zwiększenia wydajności, niezawodności lub pojemności.
+RAID 0 - Łączenie dysków w jeden logiczny, zwiększające szybkość, ale bez odporności na awarie.
+RIDE 0 - Łączenie dysków w jeden logiczny, zwiększające szybkość, ale bez odporności na awarie.
+RAID 1 - Replikacja danych na co najmniej dwóch dyskach, zwiększająca odporność na awarie.
+RIDE 1 - Replikacja danych na co najmniej dwóch dyskach, zwiększająca odporność na awarie.
+RAID 10 - Połączenie RAID 1 i RAID 0, zapewniające szybkość i bezpieczeństwo.
+RIDE 10 - Połączenie RAID 1 i RAID 0, zapewniające szybkość i bezpieczeństwo.
+RAID 5 - Wymaga min. 3 dysków; dane i kody korekcyjne rozłożone tak, by umożliwić odzyskanie danych po awarii jednego dysku.
+RIDE 5 - Wymaga min. 3 dysków; dane i kody korekcyjne rozłożone tak, by umożliwić odzyskanie danych po awarii jednego dysku.
+RAID 50 - Zagnieżdżony RAID (RAID 5 i RAID 0), oferujący szybkość i redundancję, wymaga min. 6 dysków.
+RIDE 50 - Zagnieżdżony RAID (RAID 5 i RAID 0), oferujący szybkość i redundancję, wymaga min. 6 dysków.
+RAM - (Random-Access Memory) - Pamięć operacyjna, patrz: Pamięci komputerowe OPERACYJNA (RAM).
+RAN - (Random-Access Memory) - Pamięć operacyjna, patrz: Pamięci komputerowe OPERACYJNA (RAM).
+RAMDAC - (Random Access Memory Digital to Analog Converter) - Układ na karcie graficznej przetwarzający cyfrowy sygnał obrazu na analogowy.
+RAMDAK - (Random Access Memory Digital to Analog Converter) - Układ na karcie graficznej przetwarzający cyfrowy sygnał obrazu na analogowy.
+Roundup - (Random Access Memory Digital to Analog Converter) - Układ na karcie graficznej przetwarzający cyfrowy sygnał obrazu na analogowy.
+RAY TRACING - Technika generowania fotorealistycznych obrazów 3D poprzez śledzenie promieni światła.
+RECOVERY MODE (Tryb odzyskiwania) - Specjalny tryb uruchamiania urządzenia umożliwiający naprawę systemu lub odzyskanie danych.
+REGULATOR NAPIĘCIA - Układ utrzymujący stały poziom napięcia zasilania, mimo zmian obciążenia lub źródła.
+REJESTR FLAGOWY (F) (Rejestr stanu) - Rejestr procesora przechowujący informacje o stanie CPU i wyniku ostatniej operacji.
+REJESTR FLAGOWY (Rejestr stanu) - Rejestr procesora przechowujący informacje o stanie CPU i wyniku ostatniej operacji.
+REJESTR ROZKAZÓW - Część CPU przechowująca aktualnie wykonywaną instrukcję maszynową.
+Rejestr instrukcji - Część CPU przechowująca aktualnie wykonywaną instrukcję maszynową.
+IR - Część CPU przechowująca aktualnie wykonywaną instrukcję maszynową.
+RGB - Model przestrzeni barw (Red, Green, Blue), addytywny, używany w wyświetlaczach.
+RIMM - (Rambus Inline Memory Module) - Moduły pamięci RDRAM (od 1996 r.), np. 184-pin.
+RJ-11 - Złącze 6P2C, używane głównie w telefonii analogowej i modemach.
+RJ11 - Złącze 6P2C, używane głównie w telefonii analogowej i modemach.
+RJ-45 - Złącze 8P8C, standardowe dla przewodowych sieci Ethernet.
+RJ45 - Złącze 8P8C, standardowe dla przewodowych sieci Ethernet.
+ROZDZIELCZOŚĆ - Liczba pikseli obrazu wyświetlanych w poziomie i pionie (np. FullHD 1920x1080). W druku/skanowaniu: piksele na cal (ppi/dpi).
+ROZDZIELCZOŚĆ PRÓBKOWANIA (Głębia bitowa dźwięku) - Liczba bitów opisujących jedną próbkę dźwięku cyfrowego (PCM).
+Głębia bitowa dźwięku - Liczba bitów opisujących jedną próbkę dźwięku cyfrowego (PCM).
+RYZEN - Seria wielordzeniowych procesorów AMD (architektura Zen, od 2017 r.), gniazdo AM4, z technologią SMT (odpowiednik Hyper-Threading).
+RZUTNIK MULTIMEDIALNY (Projektor) - Urządzenie optyczne wyświetlające obraz (nieruchomy lub ruchomy) na ekranie projekcyjnym.
+Projektor - Urządzenie optyczne wyświetlające obraz (nieruchomy lub ruchomy) na ekranie projekcyjnym.
+S.M.A.R.T - (Self-Monitoring, Analysis and Reporting Technology) - System monitorowania i powiadamiania o błędach dysku twardego.
+SMART - (Self-Monitoring, Analysis and Reporting Technology) - System monitorowania i powiadamiania o błędach dysku twardego.
+SPDIF - (Sony/Philips Digital Interface Format) - Standard cyfrowego przesyłania dźwięku (optyczny lub koaksjalny).
+SAMSUNG - Południowokoreański koncern produkujący m.in. elektronikę (telefony, TV, monitory, pamięci).
+SAS - (Serial Attached SCSI) - Port komunikacyjny dla dysków (głównie serwerowych), następca SCSI, wysokie przepustowości (od 2005 r.).
+SATA - (Serial ATA) - Szeregowa magistrala do komunikacji z urządzeniami pamięci masowej (HDD, SSD, ODD), następca ATA (od 2000 r.). Wersje: I (1,5Gb/s), II (3Gb/s), III (6Gb/s).
+SCSI - (Small Computer Systems Interface) - Równoległa magistrala danych, używana w serwerach i stacjach roboczych, wypierana przez SAS.
+SDRAM - (Synchronous Dynamic Random-Access Memory) - Pamięć DRAM pracująca synchronicznie z magistralą systemową (np. SDR, DDR).
+SD RAM - (Synchronous Dynamic Random-Access Memory) - Pamięć DRAM pracująca synchronicznie z magistralą systemową (np. SDR, DDR).
+SDM - (Synchronous Dynamic Random-Access Memory) - Pamięć DRAM pracująca synchronicznie z magistralą systemową (np. SDR, DDR).
+SEAGATE - Irlandzki producent dysków twardych (od 1979 r.).
+SECAM - Francuski system nadawania koloru w analogowej telewizji kolorowej, pierwszy w Europie.
+SECURE DIGITAL - Standard kart pamięci (od 2000 r.), popularny w aparatach, telefonach. Pojemności do 2TB, różne klasy prędkości (np. Class 10).
+SEMPRON - Seria niskobudżetowych procesorów AMD, następca Durona.
+SILNIK KROKOWY - Silnik elektryczny, którego wirnik obraca się o ustalony kąt po impulsie zasilania (używany w napędach CD/DVD, drukarkach).
+SIMM - (Single In-line Memory Module) - Moduł RAM ze stykami po jednej stronie płytki, poprzednik DIMM.
+SKANER - Urządzenie odczytujące obraz/kod do formy elektronicznej. Skaner optyczny przetwarza obraz rzeczywisty na cyfrowy.
+SKANER BIOMETRYCZNY - Urządzenie odczytujące dane biometryczne (linie papilarne, tęczówka) w celu weryfikacji tożsamości.
+SLAVE - W komunikacji asymetrycznej, urządzenie podrzędne (np. w ATA, drugi dysk do bootowania).
+SLI - (Scalable Link Interface) - Technologia NVIDII pozwalająca łączyć pracę kilku kart graficznych w celu szybszego renderowania.
+SLOT - Miejsce na płycie głównej do montażu kart rozszerzeń (GPU, audio) lub modułów pamięci RAM.
+SŁUCHAWKI - Przetwornik elektroakustyczny do indywidualnego odbioru dźwięku, umieszczany blisko ucha.
+SOCKET (Gniazdo procesora) - Złącze na płycie głównej stanowiące interfejs dla procesora.
+SPGA - (Staggered Pin Grid Array) - Wersja PGA z naprzemiennym ułożeniem pinów (Socket 5, 7, 8 Intela).
+SPRAWNOŚĆ ENERGETYCZNA - Stosunek energii uzyskanej do włożonej. W zasilaczach: procent mocy pobranej z sieci przekazanej do komponentów (np. 80% oznacza 20% strat).
+SRAM - (Static Random Access Memory) - Statyczna pamięć RAM, szybka, nie wymaga odświeżania, używana jako cache.
+SSE - (Streaming SIMD Extensions) - Zestaw instrukcji Intela (od Pentium III, 1999 r.) do operacji zmiennoprzecinkowych na wektorach.
+STACJA DYSKIETEK (FDD) - Napęd do obsługi dyskietek (np. 3,5 cala).
+SUBWOOFER (Głośnik niskotonowy) - Głośnik odtwarzający dźwięki o bardzo małych częstotliwościach (20-250 Hz). Może być aktywny (z wbudowanym wzmacniaczem) lub pasywny.
+SUPER I/O (Kontroler wyjścia-wejścia) - Układ (często w mostku południowym) obsługujący wolniejsze porty I/O (klawiatura, mysz, porty szeregowe/równoległe).
+SUPER IO (Kontroler wyjścia-wejścia) - Układ (często w mostku południowym) obsługujący wolniejsze porty I/O (klawiatura, mysz, porty szeregowe/równoległe).
+SUPER JA (Kontroler wyjścia-wejścia) - Układ (często w mostku południowym) obsługujący wolniejsze porty I/O (klawiatura, mysz, porty szeregowe/równoległe).
+S-VIDEO - (Separate Video) - Standard przesyłania sygnału wizyjnego z oddzieloną luminancją i chrominancją, lepsza jakość niż composite.
+s minus video - (Separate Video) - Standard przesyłania sygnału wizyjnego z oddzieloną luminancją i chrominancją, lepsza jakość niż composite.
+Smeet - (Separate Video) - Standard przesyłania sygnału wizyjnego z oddzieloną luminancją i chrominancją, lepsza jakość niż composite.
+SWIDEO - (Separate Video) - Standard przesyłania sygnału wizyjnego z oddzieloną luminancją i chrominancją, lepsza jakość niż composite.
+SYSTEM ADDYTYWNY - System liczbowy, w którym wartość liczby to suma wartości jej symboli (np. rzymski).
+SYSTEM OPERACYJNY - Nadrzędne oprogramowanie zarządzające pracą komputera, zasobami i interakcją z użytkownikiem.
+ŚREDNI CZAS DOSTĘPU (ATT) - Średni czas oczekiwania na rozpoczęcie transferu danych z dysku twardego.
+ATT - Średni czas oczekiwania na rozpoczęcie transferu danych z dysku twardego.
+TAŚMA BARWIĄCA - Materiał eksploatacyjny dla drukarki igłowej.
+TELEWIZJA ANALOGOWA - Telewizja wykorzystująca sygnał analogowy nadawany z nadajników naziemnych.
+TELEWIZJA SATELITARNA - Telewizja wykorzystująca nadajniki na sztucznych satelitach Ziemi.
+TERA (T) - Jednostka miary (potęga 10): 1 T = 10^12.
+Skrót T - Jednostka miary (potęga 10): 1 T = 10^12.
+TERA - Jednostka miary (potęga 10): 1 T = 10^12.
+TESTER (kabli RJ45) - Urządzenie do sprawdzania poprawności połączeń w kablach sieciowych RJ45.
+THREADRIPPER - Seria wysokowydajnych procesorów AMD Ryzen dla profesjonalistów, gniazdo LGA, obsługa Quad Channel RAM.
+TIBI (Ti) - Jednostka miary (potęga 2): 1 Ti = 2^40 bajtów = 1024 GiB.
+Skrót Ti - Jednostka miary (potęga 2): 1 Ti = 2^40 bajtów = 1024 GiB.
+TIBI - Jednostka miary (potęga 2): 1 Ti = 2^40 bajtów = 1024 GiB.
+TIMINGI PAMIĘCI RAM - Opóźnienia operacji modułu RAM względem zegara (np. CAS Latency - CL, RAS to CAS delay - RCD).
+TONER - Barwny proszek używany w drukarkach laserowych i kserokopiarkach.
+TOSHIBA - Japońska firma technologiczna (od 1939 r.) produkująca m.in. laptopy, pamięci Flash, napędy DVD.
+TRACKBALL (Manipulator kulkowy) - Urządzenie wskazujące, gdzie kursor poruszany jest przez obracanie kuli.
+TUSZ - Barwnik (płynny) używany w drukarkach atramentowych.
+UEFI - (Unified Extensible Firmware Interface) - Interfejs między systemem operacyjnym a firmware, następca BIOSu, z graficznym interfejsem i możliwością pisania sterowników.
+UHF - (Ultra High Frequency) - Fale decymetrowe (300–3000 MHz), używane m.in. w telefonii komórkowej (GSM).
+UKŁAD STEROWANIA (CU) (Dekoder rozkazów) - Część CPU dekodująca instrukcje i sterująca innymi blokami procesora.
+CU - Część CPU dekodująca instrukcje i sterująca innymi blokami procesora.
+Dekoder rozkazów - Część CPU dekodująca instrukcje i sterująca innymi blokami procesora.
+ULTRA DMA - Standard transferu danych między RAM a HDD (równoległy), zastąpiony przez SATA.
+UPS - (Uninterruptible Power Supply) - Zasilacz awaryjny, podtrzymujący zasilanie urządzeń w przypadku zaniku prądu.
+URZĄDZENIA WEJŚCIA - Urządzenia przekazujące dane do systemu komputerowego (np. mysz, klawiatura, mikrofon, kamera).
+URZĄDZENIA WYJŚCIA - Urządzenia odbierające dane z systemu komputerowego (np. monitor, drukarka, głośnik, słuchawki).
+USB - (Universal Serial Bus) - Uniwersalna magistrala szeregowa do podłączania urządzeń peryferyjnych. Standardy: 1.0, 2.0, 3.x (różne przepustowości).
+VGA - (Video Graphics Array) - Interfejs analogowy (złącze D-SUB 15-pin, 3 rzędy) do podłączania monitora, maks. rozdzielczość ok. 1600x1200.
+VIA TECHNOLOGIES - Tajwański producent układów scalonych (chipsety, CPU, pamięci), założony w 1987 r.
+VR - (Virtual Reality) - Rzeczywistość wirtualna; komputerowo generowany obraz sztucznej rzeczywistości.
+WESTERN DIGITAL (WD) - Jeden z największych producentów dysków twardych.
+WD - Jeden z największych producentów dysków twardych.
+WEWNĘTRZNA ARCHITEKTURA MIKROPROCESORA - Kluczowe cechy procesora: model programowy (zestaw instrukcji) i mikroarchitektura (sprzętowa implementacja).
+WKRĘTAK GWIAZDKOWY (TORX) - Narzędzie ręczne z grotem w kształcie gwiazdy (sześcioramiennej).
+TORX - Narzędzie ręczne z grotem w kształcie gwiazdy (sześcioramiennej).
+WKRĘTAK KRZYŻOWY (PHILLIPS/POZIDRIV) - Narzędzie ręczne z grotem w kształcie krzyża.
+WKRĘTAK PŁASKI - Narzędzie ręczne z płaskim grotem.
+XEON - Seria serwerowych procesorów Intela, następca Pentium Pro.
+XOR - Bramka logiczna realizująca funkcję alternatywy wykluczającej (SUMA MODULO 2).
+ZAPIS MAGNETYCZNY - Metoda zapisu danych wykorzystująca zjawisko ferromagnetyzmu (np. na dyskach twardych).
+ZASILACZ KOMPUTEROWY (PSU) - Urządzenie przetwarzające napięcie sieciowe (AC) na niskie napięcia stałe (DC) dla komponentów komputera.
+PSU - Urządzenie przetwarzające napięcie sieciowe (AC) na niskie napięcia stałe (DC) dla komponentów komputera.
+ZESTAW GŁOŚNIKOWY - System kilku głośników (np. Dolby 5.1 - 6 głośników: 3 przód, 2 tył, 1 subwoofer).
+ŻYWICA EPOKSYDOWA - Syntetyczna żywica używana jako lepiszcze, klej, do zalewania elementów elektronicznych.
