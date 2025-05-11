@@ -3,6 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Xqedii.dev</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <style>
     h1 {
         font-size: 3rem;
@@ -43,6 +45,8 @@
         border-radius: 20px;
         font-size: 1.2em;
         box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.2);
+        max-height: 300px;
+        overflow-y: auto;
     }
     button {
         color: white;
@@ -110,10 +114,39 @@
         background-position: -200% center;
       }
     }
+    @media (max-width: 600px) {
+      h1 {
+          font-size: 2rem;
+      }
+
+      .title {
+          font-size: 2.2em;
+      }
+
+      #output {
+          width: 80%;
+          font-size: 1em;
+          padding: 15px;
+      }
+
+      input {
+          width: 80%;
+          font-size: 0.95em;
+      }
+      .info {
+          width: 80%;
+          font-size: 0.95em;
+      }
+
+      button {
+          font-size: 1em;
+          padding: 8px 16px;
+      }
+  }
   </style>
 </head>
 <body>
-<h1 class="title">DefChecker</h1>
+<h1 class="title" style="margin-bottom: 50px;">DefChecker</h1>
   <div>
     <button id="recognitionButton" onclick="startRecognition()">Start</button>
     <button onclick="testDefinition()">Check Manually</button>
